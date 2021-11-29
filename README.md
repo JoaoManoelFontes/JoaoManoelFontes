@@ -1,5 +1,5 @@
 - 👋 Oi, meu nome é João Manoel, mas pode me chamar de manu
-- 💞️ Eu estou procurando me aperfeiçoar em áreas da programação, como JavaScript, nodeJS, Mysql e entre outros 
+- 💞️ Eu estou procurando me aperfeiçoar em áreas da programação, como JavaScript, nodeJS, Mysql, etc.
 - 📫 Me siga no instagram: @fontesjoaomanoel
 
 <!---
