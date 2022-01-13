@@ -2,7 +2,19 @@
 - 💞️ Eu estou procurando me aperfeiçoar em áreas da programação, como JavaScript, nodeJS, Mysql, etc.
 - 📫 Me siga no instagram: @fontesjoaomanoel
 
-<!---
-manugGates/manugGates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>Tipos de repositórios que você vai encontrar aqui:</h2>
+<ul>
+  <li>Project: <br/>
+    <p>Projetos que eu mesmo tive a ideia e desenvolvi. Geralmente para testar o conhecimento após aprender sobre alguma coisa</p>
+  </li>
+  <li>Scholar: <br/>
+    <p>Atividades passadas em cursos ou na minha escola que eu achei interessante mostrar aqui</p>
+  </li>
+  <li>Study: <br/>
+    <p>Repositório feito enquanto estou aprendendo sobre alguma linguagem ou algo do tipo. Apenas para fixar o conteúdo.</p>
+  </li>
+  <li>Personal: <br/>
+    <p>Projetos que eu fiz sem nenhum intuido acadêmico ou profissional, apenas guardo eles aqui. Ficarão em privado.</p>
+  </li>
+  
+  
