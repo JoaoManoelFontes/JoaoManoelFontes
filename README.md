@@ -2,6 +2,13 @@
 - 💞️ Eu estou procurando me aperfeiçoar em áreas da programação, como JavaScript, nodeJS, Mysql, etc.
 - 📫 Me siga no instagram: @fontesjoaomanoel
 
+<div align="center">
+  <a href="https://github.com/JoaoManoelFontes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoManoelFontes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoManoelFontes&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
 <h2>Tipos de repositórios que você vai encontrar aqui:</h2>
 <ul>
   <li>Project: <br/>
