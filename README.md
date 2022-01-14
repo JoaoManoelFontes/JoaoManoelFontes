@@ -3,16 +3,18 @@
 - 📫 Me siga no instagram: @fontesjoaomanoel
 
 <div align="center">
-  <h2>Skills</h2>
+  <h2>Stats</h2>
   <a href="https://github.com/JoaoManoelFontes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoManoelFontes&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoManoelFontes&layout=compact&langs_count=7&theme=aura"/>
 </div>
 <div style="display: inline_block"><br>
+    <h2>Skills</h2>
   <img align="center" alt="Manu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Manu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
   <img align="center" alt="Manu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
+</div>
 
 <h2>Tipos de repositórios que você vai encontrar aqui:</h2>
 <ul>
