@@ -1,6 +1,6 @@
 - 👋 Oi, meu nome é João Manoel, mas pode me chamar de manu
 - 💞️ Eu estou procurando me aperfeiçoar em áreas da programação, como JavaScript, nodeJS, Mysql, etc.
-- 📫 Me siga no instagram: @fontesjoaomanoel
+- 📫 Busco vagas de estágio e jovem aprendiz que necessitem de algum dos conteúdos citados acima. Meu e-mail: jmanufontesc@gmail.com
 
 <div align="center">
   <h2>Stats</h2>
