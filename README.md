@@ -38,5 +38,5 @@
     </li>
 </div>
   
-![Snake animation](https://github.com/rafaballerini/JoaoManoelFontes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JoaoManoelFontes/JoaoManoelFontes/blob/output/github-contribution-grid-snake.svg)
   
