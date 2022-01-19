@@ -1,9 +1,8 @@
 - 👋 Oi, meu nome é João Manoel, mas pode me chamar de manu
 - 💞️ Eu estou procurando me aperfeiçoar em áreas da programação, como JavaScript, nodeJS, Mysql, etc.
 - 📫 Busco vagas de estágio e jovem aprendiz que necessitem de algum dos conteúdos citados acima.
-
+<h2>Stats</h2>
 <div align="center">
-  <h2>Stats</h2>
   <a href="https://github.com/JoaoManoelFontes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoManoelFontes&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoManoelFontes&layout=compact&langs_count=7&theme=aura"/>
