@@ -9,7 +9,10 @@
 </div>
 <div style="display: inline_block"><br>
     <h2>Skills</h2>
-  <img align="center" alt="Manu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <figure>
+    <img align="center" alt="Manu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <figcaption>Avançado</figcaption>
+  </figure>
   <img align="center" alt="Manu-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Manu-Sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
   <img align="center" alt="Manu-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
