@@ -33,7 +33,7 @@
       <p>Repositório feito enquanto estou aprendendo sobre alguma linguagem ou algo do tipo. Apenas para fixar o conteúdo.</p>
     </li>
     <li>Personal: <br/>
-      <p>Projetos que eu fiz sem nenhum intúito acadêmico ou profissional, apenas guardo eles aqui. Ficarão em privado.</p>
+      <p>Projetos que eu fiz sem nenhum intuito acadêmico ou profissional, apenas guardo eles aqui. Ficarão em privado.</p>
     </li>
 </div>
   
