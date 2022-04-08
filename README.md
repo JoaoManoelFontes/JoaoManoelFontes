@@ -38,4 +38,4 @@
 </div>
   
 ![Snake animation](https://github.com/JoaoManoelFontes/JoaoManoelFontes/blob/output/github-contribution-grid-snake.svg)
-  
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JoaoManoelFontes)](https://github.com/anuraghazra/github-readme-stats)
