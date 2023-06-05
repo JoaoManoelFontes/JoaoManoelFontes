@@ -1,3 +1,6 @@
+- 👋 Oi, meu nome é João Manoel, mas pode me chamar de manu
+- 💞️ Eu estou procurando me aperfeiçoar em áreas da programação, como JavaScript, nodeJS, Mysql, etc.
+- 📫 Busco vagas de estágio e jovem aprendiz que necessitem de algum dos conteúdos citados acima.
 - 👋 Oi, meu nome é João Manoel, sou um desenvolvedor Full Stack
 - 💞️ Eu estou procurando me aperfeiçoar em áreas da programação como NodeJS, Django, NextJS, entre outros.
 - 📫 Busco vagas Júnior que necessitem de algum dos conteúdos citados acima.
@@ -22,5 +25,22 @@
    <a href="https://instagram.com/fontesjoaomanoel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:jmanufontesc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/joao-manoel-12a07420b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>  
+  </div>
+<div>
+<h2>Types of repo</h2>
+  <ul>
+    <li>Project: <br/>
+      <p>Projetos que eu mesmo tive a ideia e desenvolvi. Geralmente para testar o conhecimento após aprender sobre alguma coisa</p>
+    </li>
+    <li>Scholar: <br/>
+      <p>Atividades passadas em cursos ou na minha escola que eu achei interessante mostrar aqui</p>
+    </li>
+    <li>Study: <br/>
+      <p>Repositório feito enquanto estou aprendendo sobre alguma linguagem ou algo do tipo. Apenas para fixar o conteúdo.</p>
+    </li>
+    <li>Personal: <br/>
+      <p>Projetos que eu fiz sem nenhum intuito acadêmico ou profissional, apenas guardo eles aqui. Ficarão em privado.</p>
+    </li>
+</div>
+  
 ![Snake animation](https://github.com/JoaoManoelFontes/JoaoManoelFontes/blob/output/github-contribution-grid-snake.svg)
