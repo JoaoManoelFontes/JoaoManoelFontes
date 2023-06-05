@@ -1,6 +1,3 @@
-- 👋 Oi, meu nome é João Manoel, mas pode me chamar de manu
-- 💞️ Eu estou procurando me aperfeiçoar em áreas da programação, como JavaScript, nodeJS, Mysql, etc.
-- 📫 Busco vagas de estágio e jovem aprendiz que necessitem de algum dos conteúdos citados acima.
 - 👋 Oi, meu nome é João Manoel, sou um desenvolvedor Full Stack
 - 💞️ Eu estou procurando me aperfeiçoar em áreas da programação como NodeJS, Django, NextJS, entre outros.
 - 📫 Busco vagas Júnior que necessitem de algum dos conteúdos citados acima.
