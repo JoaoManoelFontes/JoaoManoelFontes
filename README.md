@@ -1,5 +1,5 @@
-- 👋 Oi, meu nome é João Manoel, sou um desenvolvedor Full Stack
-- 💞️ Eu estou procurando me aperfeiçoar em áreas da programação como NodeJS, Django, NextJS, entre outros.
+- 👋 Oi, meu nome é João Manoel, sou um desenvolvedor Back End
+- 💞️ Eu estou procurando me aperfeiçoar em áreas da programação como NodeJS, Python, TypeScript, entre outros.
 - 📫 Busco vagas Júnior que necessitem de algum dos conteúdos citados acima.
 <h2>Stats</h2>
 <div align="center">
