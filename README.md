@@ -1,5 +1,5 @@
 - 👋 Oi, meu nome é João Manoel, sou um desenvolvedor Back End
-- 💞️ Eu estou procurando me aperfeiçoar em áreas da programação como NodeJS, Python, TypeScript, entre outros.
+- 💞️ Busco diariamente por evoluir e me aperfeiçoar nas mais diversas tecnologias de desenvolvimento.
 <h2>Stats</h2>
 <div align="center">
   <a href="https://github.com/JoaoManoelFontes">
@@ -8,7 +8,6 @@
 </div>
 <div style="display: inline_block"><br>
     <h2>Skills</h2>
-  <img align="center" alt="Manu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Manu-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Manu-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Manu-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
