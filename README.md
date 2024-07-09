@@ -2,3 +2,4 @@
 - 💞️ Busco diariamente por evolução e aperfeiçoamento nas mais diversas tecnologias de desenvolvimento.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoManoelFontes)](https://github.com/JoaoManoelFontes/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoManoelFontes&show_icons=true&theme=aura)
